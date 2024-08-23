@@ -13,10 +13,7 @@ To perform regular differncing,seasonal adjustment and log transformatio on inte
 4. Plot the data according to need, before and after regular differncing,seasonal adjustment,log transformation.
 5. Display the overall results.
 ## PROGRAM:
-```
-Name : Yamunaasri T S
-Reg no : 212222240117
-```
+
 ### REGULAR DIFFERENCING
 ```
 import numpy as np
